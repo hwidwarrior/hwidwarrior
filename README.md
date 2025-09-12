@@ -12,5 +12,5 @@
 ## syka blat udalili mne git profil 2017 goda :/
 ---
 [![](https://visitcount.itsvg.in/api?id=hwidwarrior&icon=5&color=1)](https://visitcount.itsvg.in)
----
+
 ![](https://famous-aquamarine-fowl.myfilebase.com/ipfs/QmTkE3rhBBBozpzKbd7egBnQSpzAC1YVjGZYWAAsG6pAVc)
