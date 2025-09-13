@@ -9,7 +9,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hwidwarrior&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
-## syka blat udalili mne git profil 2017 goda :/
+## syka blat udalili mne git profil 2018 goda :/
 ---
 [![](https://visitcount.itsvg.in/api?id=hwidwarrior&icon=5&color=1)](https://visitcount.itsvg.in)
 
