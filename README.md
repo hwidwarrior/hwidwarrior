@@ -1,7 +1,7 @@
-![]()
+![](https://raw.githubusercontent.com/hwidwarrior/hwidwarrior/refs/heads/main/sapkowski%20(1).png)
 ---
 # 💻 Tech Stack:
-![]()
+![](https://raw.githubusercontent.com/hwidwarrior/hwidwarrior/refs/heads/main/tech.png)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hwidwarrior&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
