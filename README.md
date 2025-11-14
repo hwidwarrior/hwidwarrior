@@ -1,7 +1,7 @@
-![](https://drive.google.com/u/0/drive-viewer/AKGpihYC7c4LYF5CoiInIMuohtxWAToBGyx-0Y0qtCteaP4aWkG4uLrSiUHhr_eNo3cfQlSCQJcpK9-S8QdJMFKMzqQe0UmIKx_RMs4=s1600-rw-v1)
+![]()
 ---
 # 💻 Tech Stack:
-![](https://famous-aquamarine-fowl.myfilebase.com/ipfs/Qme2Hy24ZqNv6mYovjoWzPZupSvE37EM9TXs374PLkEqZH)
+![]()
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hwidwarrior&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
