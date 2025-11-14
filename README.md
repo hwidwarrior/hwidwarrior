@@ -1,4 +1,4 @@
-![](https://famous-aquamarine-fowl.myfilebase.com/ipfs/QmQTB6SxJWp3Q34dZ87ee8sJq8TJNVRnGeUGsBZ7bcu3T8)
+![]([https://famous-aquamarine-fowl.myfilebase.com/ipfs/QmQTB6SxJWp3Q34dZ87ee8sJq8TJNVRnGeUGsBZ7bcu3T8](https://media.discordapp.net/attachments/951775401087205396/1438874547586732056/IViDKMt.png?ex=691877d9&is=69172659&hm=f0ce1527fa3669b8f316c48eef6e2788bc1801f9a2db12d419fcb925d7d1cc00&=&format=webp&quality=lossless&width=1118&height=798))
 ---
 # 💻 Tech Stack:
 ![](https://famous-aquamarine-fowl.myfilebase.com/ipfs/Qme2Hy24ZqNv6mYovjoWzPZupSvE37EM9TXs374PLkEqZH)
