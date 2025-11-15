@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/hwidwarrior/hwidwarrior/refs/heads/main/sapkowski%401%2C5x%201.png)
+![](https://raw.githubusercontent.com/hwidwarrior/hwidwarrior/refs/heads/main/sapkowski%20(1).png)
 ---
 # 💻 Tech Stack:
 ![](https://raw.githubusercontent.com/hwidwarrior/hwidwarrior/refs/heads/main/tech.png)
