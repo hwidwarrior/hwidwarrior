@@ -1,3 +1,3 @@
 ---
-![](https://raw.githubusercontent.com/hwidwarrior/hwidwarrior/refs/heads/main/sapkowski.png)
+![](https://raw.githubusercontent.com/hwidwarrior/hwidwarrior/refs/heads/main/stack.png)
 ---
