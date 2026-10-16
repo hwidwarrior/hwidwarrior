@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/hwidwarrior/hwidwarrior/refs/heads/main/Frame%20261.png)
+![](https://raw.githubusercontent.com/hwidwarrior/hwidwarrior/refs/heads/main/techstack%20(2).png)
